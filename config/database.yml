@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: tubez_development
+  pool: 5
+  host: localhost
+  username: edmundmai
+  password:
+
